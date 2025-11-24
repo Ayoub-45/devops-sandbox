@@ -1,0 +1,13 @@
+{
+  "name": "devops-sandbox-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2"
+  }
+}
